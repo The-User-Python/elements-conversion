@@ -60,12 +60,12 @@ So this is why you should learn Python first . These code are taken from [progra
   ![Screenshot](https://user-images.githubusercontent.com/97610126/224493805-905c8efa-ad08-45f1-8c1c-6d0d018879c9.png) . The Yellow Mark are the example you can change the name of the file and connect to python from the top right corner . 
   
  
- # Want To Contact Me , But Don't Know How To ? 
+ ## Want To Contact Me , But Don't Know How To ? 
    
   Answer- You can Contact me through mail from here [G-Mail](https://mail.google.com/mail/?tab=rm&authuser=0&ogbl) , [Lichess]( https://lichess.org/) . Don't Worry it's Open-Source , You can create you're Own website after once you fork my reposirtory . 
   
   
- # Now Some Coding Practice 
+ ##  Now Some Coding Practice 
  
  Answer- So usually you have to start with basic's like 
   
