@@ -12,7 +12,7 @@ currently being supported with security updates.
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 ##
-## Upcoming Version Will Be.  | ≤6.9.   |  :✓:|
+## Upcoming Version Will Be.  | 9.0.x   | :white_check_mark: |
 
 
 ## Reporting a Vulnerability
