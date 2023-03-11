@@ -7,4 +7,4 @@
 ## Here We Will Be Learning About Basic Function's Of Python
 
 # Step 1] What is Python?
-# Ans - Python is a highlevel programming language , hence which is also known as Object Oriented Language . It is the most easiest language to learn . It uses simple - basic syntaxe's which we will learn here .  [![Python](https://en.wikipedia.org/wiki/Python_programming_language)] 
+# Ans - Python is a highlevel programming language , hence which is also known as Object Oriented Language . It is the most easiest language to learn . It uses simple - basic syntaxe's which we will learn here .  [Python](https://en.wikipedia.org/wiki/Python_programming_language) 
