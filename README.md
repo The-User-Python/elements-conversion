@@ -1,17 +1,17 @@
-## [elements-conversion](https://github.com/DakshCodess/elements-conversion) 
-                                      
+## [elements-conversion](https://the-user-python.github.io/elements-conversion/)
+
                                            WELCOME TO ELEMENTS-CONVERSION 
 
 
 ## Here We Will Be Learning About Basic Function's Of Python
 
-# Step 1] What is Python?
+# What is Python?
 
-  Ans - Python is a highlevel programming language , hence which is also known as Object Oriented Language . It is the most easiest language   to learn . It uses simple - basic syntaxe's which we will learn here .  [Python](https://en.wikipedia.org/wiki/Python_programming_language) 
+Python is a highlevel programming language , hence which is also known as Object Oriented Language . It is the most easiest language   to learn . It uses simple - basic syntaxe's which we will learn here .  [Python](https://en.wikipedia.org/wiki/Python_programming_language) 
 
-# Step 2] Why Should I learn Python First? Why not to try some other Languages first like C/C++ ?
+# Why Should I learn Python First? Why not to try some other Languages first like C/C++ ?
 
-  Ans - Hmmm , It's a good question. So basically as You know Python is a very asy language as it uses Intrepreter to run the code . For       Example if you put a code ->  
+Hmmm , It's a good question. So basically as You know Python is a very asy language as it uses Intrepreter to run the code . For       Example if you put a code ->  
   
                                 a=10
                                 b=20
@@ -54,7 +54,7 @@ Example if you put code --->
                  
 So this is why you should learn Python first . These code are taken from [programiz.com](https://www.programiz.com/c-programming)               
 # Now What Kind Of Software Should You Use? 
-  Answer - See if you'r computer/Pc/Mac is good enough so you can download Python directly on you're computer . You can download from here   [Python](https://www.python.org/downloads/windows/), For Mac-Book [Python](https://www.python.org/downloads/macos/), For Other        Platform's [Python](https://www.python.org/download/other/). These all releases are Provided by Python.org Official Site [Python](https://www.python.org/) 
+See if you'r computer/Pc/Mac is good enough so you can download Python directly on you're computer . You can download from here   [Python](https://www.python.org/downloads/windows/), For Mac-Book [Python](https://www.python.org/downloads/macos/), For Other        Platform's [Python](https://www.python.org/download/other/). These all releases are Provided by Python.org Official Site [Python](https://www.python.org/) 
   
   If you're not able to download Python on you're Window's don't be sad :cry: , Because my Laptop too doesn't support . But don't worry you can use [Anaconda-Distribution](https://www.anaconda.com/products/distribution) for using Python , This Anaconda Distribution is also Open-Source project , you can do changes in it . NOTE: Anaconda is a big file make sure you're computer/pc/laptop has enough memory/storage . Or else you can simpley use Google Collab [Google-Collab](https://colab.research.google.com/) This platform will help you to connect python and can help you to show how much data you're python is consuming here is the image as an example 
   ![Screenshot](https://user-images.githubusercontent.com/97610126/224493805-905c8efa-ad08-45f1-8c1c-6d0d018879c9.png) . The Yellow Mark are the example you can change the name of the file and connect to python from the top right corner . 
@@ -62,12 +62,12 @@ So this is why you should learn Python first . These code are taken from [progra
  
 # Want To Contact Me , But Don't Know How To ? 
    
-  Answer- You can Contact me through mail from here [G-Mail](https://mail.google.com/mail/?tab=rm&authuser=0&ogbl) , [Lichess]( https://lichess.org/) . Don't Worry it's Open-Source , You can create you're Own website after once you fork my reposirtory . 
+You can Contact me through mail from here [G-Mail](https://mail.google.com/mail/?tab=rm&authuser=0&ogbl) , [Lichess]( https://lichess.org/) . Don't Worry it's Open-Source , You can create you're Own website after once you fork my reposirtory . 
   
   
 # Now Some Coding Practice 
  
- Answer- So usually you have to start with basic's like 
+So usually you have to start with basic's like 
   
   
                                  a=10
