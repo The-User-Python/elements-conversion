@@ -154,7 +154,6 @@ I would reccomend GitHub only , Like it's preety easy to use and understandable 
 
 ## Want to buy me a Coffee , Well Donate me here 
 
-Thank You , If you're donating me coffee , You're a kind person and thank's a lot for donating me [buymeacoffee.com](https://www.buymeacoffee.com/handedakshA]), 
-## Thank You For $5 Donation
+Thank You , If you're donating me coffee , You're a kind person and thank's a lot for donating me 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
