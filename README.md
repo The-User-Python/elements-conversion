@@ -164,5 +164,5 @@ Thank You, If you're donating me coffee, you are a kind person and thank you ver
 [![ProjectContributor](https://img.shields.io/badge/project-contributor-ff69b4.svg)](https://github.com/The-User-Python/elements-conversion/graphs/contributors)
 [![GitHub contributors](https://contrib.rocks/image?repo=The-User-Python/DinoGame)](https://github.com/The-User-Python/elements-conversion/graphs/contributors) 
 
-Don't feel sad , You can become conytributor too by contributing to our website .
+Don't feel sad , You can become contributor too by contributing to our website . Hence Open-Source peoject is for every GitHub user
 ------------------------------------------------------------------------------------------------------------------------------------------
